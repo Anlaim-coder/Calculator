@@ -1,0 +1,70 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="attrs" />
+          <option value="bidict" />
+          <option value="blinker" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="datasets" />
+          <option value="dill" />
+          <option value="filelock" />
+          <option value="Flask" />
+          <option value="flask-cors" />
+          <option value="Flask-Login" />
+          <option value="Flask-SocketIO" />
+          <option value="Flask-SQLAlchemy" />
+          <option value="fonttools" />
+          <option value="frozenlist" />
+          <option value="fsspec" />
+          <option value="greenlet" />
+          <option value="hf-xet" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="huggingface_hub" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="kiwisolver" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="multidict" />
+          <option value="multiprocess" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="propcache" />
+          <option value="pyarrow" />
+          <option value="python-dateutil" />
+          <option value="python-engineio" />
+          <option value="python-socketio" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="shellingham" />
+          <option value="simple-websocket" />
+          <option value="six" />
+          <option value="SQLAlchemy" />
+          <option value="tqdm" />
+          <option value="typer-slim" />
+          <option value="tzdata" />
+          <option value="Werkzeug" />
+          <option value="wsproto" />
+          <option value="xxhash" />
+          <option value="yarl" />
+          <option value="aiohappyeyeballs" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pygsheets" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
